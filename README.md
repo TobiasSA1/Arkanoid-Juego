@@ -22,10 +22,6 @@ Recreación del clásico juego **Arkanoid** usando **HTML5 Canvas**, **CSS3** y 
 
 ## 📸 Demo
 
-> (Podés agregar un `.gif` o capturas de pantalla en `public/` y linkearlo)
-
-![Demo](./public/demo.gif)
-
 🌐 [Ver demo en GitHub Pages](https://tobiassa1.github.io/Arkanoid-Juego/)
 
 ---
